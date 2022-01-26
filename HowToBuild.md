@@ -13,10 +13,10 @@ While Java compiles and runs on way more operating systems than Windows I am run
 
 On Windows, you can work with the *.bat files at the root of the PhraseTractor's source folder.
 
-- Open the AddJavaPath.bat file in an editor and adjust the **JDK** path to point to a valid directory on your machine
-- Open the CMD command prompt and ´´´cd´´´ into the folder of the above batch file
-- Execute **compile.bat** and check the **bin** folder as it should no contain the compiled **.class** files
-- Execute **build_jar.bat** and check the **root** folder of the project as it should now contain the **PhraseTractor.jar** files
+- Open the ```AddJavaPath.bat``` file in an editor and adjust the **JDK** path to point to a valid directory on your machine
+- Open the ```CMD``` command prompt and ```cd``` into the folder of the above batch file
+- Execute ```compile.bat``` and check the ```bin``` folder as it should no contain the compiled ```.class``` files
+- Execute ```build_jar.bat``` and check the **root** folder of the project as it should now contain the ```PhraseTractor.jar``` files
 
 If this went as described you are done setting up your system for the development of this tool.
 Follow an (additional guide)[./docs/PhraseTractor.pdf] to learn more about its usage with text.
