@@ -19,4 +19,4 @@ On Windows, you can work with the *.bat files at the root of the PhraseTractor's
 - Execute ```build_jar.bat``` and check the **root** folder of the project as it should now contain the ```PhraseTractor.jar``` files
 
 If this went as described you are done setting up your system for the development of this tool.
-Follow an (additional guide)[./docs/PhraseTractor.pdf] to learn more about its usage with text.
+Follow an [additional guide](./docs/PhraseTractor.pdf) to learn more about its usage with text.
