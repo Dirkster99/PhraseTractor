@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Auxilary/binary stuff that does not need to be commited into the repository
+00_Release/
+*.docx
+
+# visual studio code config files
+.vscode
